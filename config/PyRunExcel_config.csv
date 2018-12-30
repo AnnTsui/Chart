@@ -1,0 +1,2 @@
+Batch,isReadOnly,isContinuous,isSave,RunProcess,Parameters,ExcelPath,Password
+1,FALSE,FALSE,FALSE,runTest,,C:\Users\AnnTsui\Desktop\Project\PyRunExcel\test\test.xlsb,
